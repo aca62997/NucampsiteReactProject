@@ -127,7 +127,7 @@ function RenderCampsite({ campsite }) {
         <FadeTransform
           in
           transformProps={{
-            exitTransform: "scale(0.5) translateY(-50%)",
+            exitTransform: "scale(0.1) translateY(-10%)",
           }}
         >
           <Card>
